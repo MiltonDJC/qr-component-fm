@@ -45,7 +45,11 @@ img {
     font-size: 13px;
 }
 
-h3,
+h1 {
+    font-size: 20px;
+}
+
+h1,
 p {
     margin-block: 15px;
 }
