@@ -36,12 +36,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-The most important thing I learned was to control the size of the elements using absolute measurements instead of relative measurements
-When I used relative measurements, it was difficult to control the sizes of the container and the position of the elements
+The most important thing I learned was to control the size of the elements using absolute measurements instead of relative measurements. When I used relative measurements, it was difficult to control the sizes of the container and the position of the elements.
 
 ### Continued development
 
-For futures project I want to get better using relative measurements
+For futures project I want to get better using relative measurements.
 
 ## Author
 
